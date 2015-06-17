@@ -1,0 +1,6 @@
+{
+  "name": "Slackify",
+  "description": "An app to see what peeps are listening to on Spotify.",
+  "repository": "https://github.com/kylemclaren/Spotify-Slack-Integration",
+  "keywords": ["node", "slack", "spotify"]
+}
